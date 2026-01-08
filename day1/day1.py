@@ -1,3 +1,4 @@
+                         #hello world ,variable,datatype
 print("Hello World!")
 print(6)
 print("My first python program")
@@ -14,7 +15,7 @@ print("a1")
 #text data= str
 #boolean=True,False
 
-a=1
+a=1  
 b=True
 c="Anika"
 d=None
